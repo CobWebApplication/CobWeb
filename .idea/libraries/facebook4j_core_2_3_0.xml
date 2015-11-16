@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="facebook4j-core-2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.facebook4j/facebook4j-core/2.3.0/9093691ec34c0cceaf6fae6b7722bb9e3a50eb3b/facebook4j-core-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.facebook4j/facebook4j-core/2.3.0/7f04bc299e715cce308fbf4aa726da82127ec03c/facebook4j-core-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

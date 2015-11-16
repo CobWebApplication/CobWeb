@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\httpclient-4.5.1-6da4b3d51271724010ad1ee4d9afa4f5a2bffa4f.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\classes-adb1d28924bd790b94925d10374de0f197db2d93.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3-61ef24d3e3967a70a3ce509585148c794af0901d.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\httpmime-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="96823b9421ebb9f490dec837d9f96134e864e3a7">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\httpmime-4.5.1-84de2fe5c7a0b25150f0a931caf373308fed84b0.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\httpclient-cache-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6247317086cb12d2a5fe3296afeccb1d3e00525c">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\httpclient-cache-4.5.1-6e8c736525cb447dd266f0e78515037f6394728c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Никита\.gradle\caches\modules-2\files-2.1\org.facebook4j\facebook4j-core\2.3.0\9093691ec34c0cceaf6fae6b7722bb9e3a50eb3b\facebook4j-core-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9093691ec34c0cceaf6fae6b7722bb9e3a50eb3b">
+        <dex dex="C:\HSE\Universal Social Network\CobWeb\app\build\intermediates\pre-dexed\debug\facebook4j-core-2.3.0-29d57ce6d3d89981b95ee29a5a3b83b9f38f22d2.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\classes-10c9fea514de3fe837abfbff2905e2d64e92d7f1.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\commons-logging-1.2-e1d7c47d1a4c5838fa5bda229ba6aeb3e4b9e45c.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\commons-codec-1.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\commons-codec-1.9-9ff32d954496259754d5de42c5e99bc16099aa71.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\jna-platform-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\jna-platform-4.1.0-fd56d1eb27fbedb5e4c8aa844d8d271d9ecbb6b9.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\classes-a65b9a0e67e06b14a1d3b4436c083360e46a5f9f.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\jna-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\jna-4.1.0-e109855a767ed556011b55848e5effbf4f233b1a.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\fluent-hc-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a4bafd995d1403c26d874bf52f76e7f74af8b9a">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\fluent-hc-4.5.1-89ebc91c98dc5e91e278a63640b14820796f21a3.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-58dd0c446e1d27ca195a28b376bc2f57d17827a1.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\classes-f185c0ca3fd9429b0f4665a2b60888315aee74a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Никита\.gradle\caches\modules-2\files-2.1\org.twitter4j\twitter4j-core\4.0.4\1f3c896c7b2f20c51103078ccf0bc2ea97ac012a\twitter4j-core-4.0.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f3c896c7b2f20c51103078ccf0bc2ea97ac012a">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.4-39224cf293479a2974fbb23ff72c68dc6f7bb4b0.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Universal Social Network\v2\CobWeb\app\libs\httpclient-win-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1829f9483cded887b5e7eb354d9a86e81d377962">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\httpclient-win-4.5.1-c220e8e4fc1d856d5b476da815decc46eb408502.jar" />
+    </item>
+    <item
+        jar="C:\HSE\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\HSE\Universal Social Network\v2\CobWeb\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-332b908483a7614915c7090af005948a5d9dcec4.jar" />
+    </item>
+
+</items>
